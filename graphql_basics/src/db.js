@@ -37,7 +37,7 @@ const posts = [
     id: '12',
     title: 'Programming Music',
     body: '',
-    published: true,
+    published: false,
     author: '2',
   },
 ];
